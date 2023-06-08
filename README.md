@@ -22,4 +22,6 @@ The ProShop Ecommerce Website is a simple landing page created using HTML, CSS, 
 
 1. Clone the repository:
 
+
+A link to the landing page
 https://nyallu.github.io/Proshop-Landing-Page/
